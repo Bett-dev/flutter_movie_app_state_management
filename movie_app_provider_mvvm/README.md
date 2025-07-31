@@ -1,16 +1,16 @@
 # movie_app_provider_mvvm
 
-A new Flutter project.
+This is a Flutter movie app built using the Provider package and the MVVM architecture.
 
-## Getting Started
+It demonstrates clean separation between UI, business logic, and data, making the app easy to scale and maintain.
 
-This project is a starting point for a Flutter application.
+🧰 Features
+MVVM architecture
+State management with Provider
+Movie listing and detail view
+API integration (e.g., TMDb)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🚀 Getting Started
+cd movie_app_provider_mvvm
+flutter pub get
+flutter run
